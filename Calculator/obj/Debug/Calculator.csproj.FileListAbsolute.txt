@@ -1,0 +1,65 @@
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\Calculator.frmcalculator.resources
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\penah\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\bin\Debug\Calculator.exe
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\bin\Debug\Calculator.pdb
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.frmcalculator.resources
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.exe
+C:\Users\penah\OneDrive\Рабочий стол\exe\My Git Projects\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.pdb
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\bin\Debug\Calculator.exe
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\bin\Debug\Calculator.pdb
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.frmcalculator.resources
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.frmscientafic.resources
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.exe
+C:\Users\penah\OneDrive\Рабочий стол\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.pdb
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\bin\Debug\Calculator.exe
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\bin\Debug\Calculator.pdb
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.frmcalculator.resources
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.frmscientafic.resources
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.exe
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.pdb
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\bin\Debug\MetroFramework.dll
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.AboutBox.resources
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.Screen.frmdatacalculator.resources
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.Screen.frmscancode.resources
+C:\Users\penah\OneDrive\Рабочий стол\My projects Apps\Full Windows Calculator in C#\Calculator\obj\Debug\Calculator.Screen.frmsendfeedback.resources
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\bin\Debug\Calculator.exe.config
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\bin\Debug\Calculator.exe
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\bin\Debug\Calculator.pdb
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\bin\Debug\MetroFramework.dll
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.AboutBox.resources
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.Screen.frmdatacalculator.resources
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.frmcalculator.resources
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.Screen.frmscancode.resources
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.frmscientafic.resources
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.Screen.frmsendfeedback.resources
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.exe
+D:\LapTrinhMang\Simple Calculator Winform CSharp\Calculator\obj\Debug\Calculator.pdb
